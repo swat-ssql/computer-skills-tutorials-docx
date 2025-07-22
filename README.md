@@ -1,2 +1,2 @@
 # Computer Skills Tutorials Word Document for Downloading
-This is a set of tutorials on core computing skills. We recommend you download this document and work with it on your computer or in a Google Doc, but you can also find the same material at https://swat-ssql.github.io/computer-skills-tutorials.
+This is a set of tutorials on core computing skills. We recommend you [download](https://github.com/swat-ssql/computer-skills-tutorials-docx/raw/refs/heads/main/Computer-Skills-Tutorials.docx) this document and work with it on your computer or in a Google Doc, but you can also find the same material at https://swat-ssql.github.io/computer-skills-tutorials.
